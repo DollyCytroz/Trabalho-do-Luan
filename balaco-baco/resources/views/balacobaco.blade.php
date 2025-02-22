@@ -24,7 +24,7 @@
         background-color: #a4908c;
         margin-left: 30%;
         margin-right: 30%; 
-        border: 2px, solid, #a4908c; 
+        border: 2px, solid, black; 
         border-radius: 10px
     }     
 
@@ -37,27 +37,33 @@
     form{
         color: black;
         margin-top: 5px;
-        margin-bottom: 50px; 
+        margin-bottom: 10px; 
     }
 
     input{
         margin: 5px;
+        border  : 2px, solid, black;
+        border-radius: 10px;
     }
 
     button{
         margin: 5px;
+        border: 2px, solid, black;
+        border-radius: 10px;
+        background-color: black;
+        color: white;
     }
 
     .container{
         margin: 5px;
         align-items: center;
         margin-left: 33%;
-        margin-top: 5%;
+        margin-top: 3%;
     }
 
     .form-container{
         margin: 5px;
-        border: 2px, solid, #a4908c;
+        border: 2px, solid, black;
         border-radius: 10px;
         margin-right: 50%;
         background-color: #a4908c;
